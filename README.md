@@ -7,6 +7,7 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 ![img.png](img.png)
 
 # Activity 2:
+![img_1.png](img_1.png)
 
 # Activity 3:
 
